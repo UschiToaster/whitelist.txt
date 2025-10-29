@@ -119,7 +119,13 @@ skype.com
 signal.org
 icloud.com
 icloud-content.com
-
+# --- Zusätzliche System- und Streaming-Domains ---
+logs.netflix.com
+lcprd1.samsungcloudsolution.net
+fp.msedge.net
+a-ring.msedge.net
+t-ring-s2.msedge.net
+g.live.com
 # ---- Sonstiges nützliches ----
 speedtest.net
 openai.com
