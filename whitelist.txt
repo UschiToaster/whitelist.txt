@@ -1,0 +1,144 @@
+# ===========================================================
+# ✅ AdGuard Home – Alltags-Whitelist
+# Zweck: Erlaubt essentielle Domains für Apps, Streaming,
+# Gaming, Zahlungen und Cloud-Dienste, ohne Werbung freizugeben.
+# ===========================================================
+
+# ---- Streaming / TV ----
+netflix.com
+nflxvideo.net
+disneyplus.com
+bamgrid.com
+amazonvideo.com
+primevideo.com
+media-amazon.com
+joyn.de
+rtlplus.de
+rtl.de
+ardmediathek.de
+zdf.de
+zdfcdn.de
+tvnow.de
+cdn.netflix.com
+disney.demdex.net
+firetv-apps.net
+hbomax.com
+hbonordic.com
+player.pl
+waipu.tv
+rakuten.tv
+sky.de
+sky.com
+
+# ---- Musik / Audio ----
+spotify.com
+audio-fa.scdn.co
+spclient.wg.spotify.com
+youtube.com
+youtube-nocookie.com
+music.youtube.com
+ytimg.com
+soundcloud.com
+deezer.com
+tidal.com
+pandora.com
+
+# ---- Shopping / Bezahlung ----
+amazon.com
+amazon.de
+ssl-images-amazon.com
+paypal.com
+paypalobjects.com
+api.paypal.com
+braintreegateway.com
+klarna.com
+klarna.services
+stripe.com
+checkout.stripe.com
+googlepay.com
+pay.google.com
+cdn.klarna.com
+ebay.de
+ebaystatic.com
+
+# ---- Gaming ----
+playstation.com
+sonyentertainmentnetwork.com
+xbox.com
+xboxlive.com
+steamcommunity.com
+store.steampowered.com
+steampowered.com
+epicgames.com
+cdn1.epicgames.com
+origin.com
+ea.com
+ubisoft.com
+uplay.com
+battle.net
+blizzard.com
+nintendo.net
+nintendo.com
+rockstargames.com
+bethesda.net
+riotgames.com
+valorant.com
+minecraft.net
+mojang.com
+
+# ---- Cloud / Updates / OS ----
+microsoft.com
+windowsupdate.com
+live.com
+office.com
+onedrive.com
+sharepoint.com
+apple.com
+icloud.com
+mzstatic.com
+google.com
+gstatic.com
+android.com
+firebaseio.com
+googleapis.com
+chromecast.com
+chromium.org
+samsung.com
+lgsmarttv.net
+smartthings.com
+
+# ---- Kommunikation / Tools ----
+whatsapp.com
+whatsapp.net
+telegram.org
+discord.com
+slack.com
+zoom.us
+teams.microsoft.com
+skype.com
+signal.org
+icloud.com
+icloud-content.com
+
+# ---- Sonstiges nützliches ----
+speedtest.net
+openai.com
+duckduckgo.com
+bing.com
+cdn.cloudflare.net
+akamaihd.net
+akamaized.net
+cdn77.org
+cdninstagram.com
+facebook.com
+fbcdn.net
+instagram.com
+twitter.com
+x.com
+reddit.com
+pinterest.com
+
+# ===========================================================
+# Ende der Liste
+# Erstellt für den privaten Gebrauch mit AdGuard Home
+# ===========================================================
