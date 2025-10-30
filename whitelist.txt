@@ -265,7 +265,7 @@ tiktokv.com
 tiktokcdn.com
 snapchat.com
 cdn.snapchat.com
-
+event.api.np.km.playstation.net
 # ===========================================================
 # Ende der Liste
 # Erstellt für den privaten Gebrauch mit AdGuard Home
