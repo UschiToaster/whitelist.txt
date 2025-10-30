@@ -143,6 +143,128 @@ twitter.com
 x.com
 reddit.com
 pinterest.com
+# 🔹 Allgemeine Systemdienste
+clients4.google.com
+clients2.google.com
+connectivitycheck.gstatic.com
+connectivitycheck.android.com
+connectivitycheck.apple.com
+ocsp.apple.com
+ocsp.digicert.com
+
+# 🔹 Microsoft / Windows
+windowsupdate.microsoft.com
+update.microsoft.com
+dl.delivery.mp.microsoft.com
+ntservicepack.microsoft.com
+login.live.com
+onedrive.live.com
+officecdn.microsoft.com
+storeedgefd.dsx.mp.microsoft.com
+
+# 🔹 PlayStation / Sony
+playstation.net
+api.np.km.playstation.net
+auth.api.sonyentertainmentnetwork.com
+cdn.prod.dl.playstation.net
+static-resource.np.community.playstation.net
+store.playstation.com
+psapp.tv
+sony.com
+
+# 🔹 Nintendo / Switch
+nintendo.net
+nintendo.com
+accounts.nintendo.com
+ecs-lp1.hac.shop.nintendo.net
+api.lp1.av5ja.srv.nintendo.net
+
+# 🔹 Xbox / Microsoft Gaming
+xboxlive.com
+xbox.com
+xsts.auth.xboxlive.com
+presence-edge.xboxlive.com
+gamepass.com
+dlassets.xboxlive.com
+
+# 🔹 Amazon / Prime Video / Alexa
+amazon.com
+amazon.de
+amazon.co.uk
+media-amazon.com
+aiv-cdn.net
+primevideo.com
+firetv.amazon.com
+alexa.amazon.com
+
+# 🔹 Netflix / Streaming
+netflix.com
+nflxvideo.net
+nflximg.net
+nflxext.com
+nflxso.net
+nflxsearch.net
+
+# 🔹 Disney+ / Hulu
+disneyplus.com
+bamgrid.com
+disney.demdex.net
+hulu.com
+huluim.com
+
+# 🔹 Spotify
+spotify.com
+scdn.co
+audio-fa.scdn.co
+api.spotify.com
+dealer.spotify.com
+
+# 🔹 YouTube / Google Video
+youtube.com
+ytimg.com
+googlevideo.com
+yt3.ggpht.com
+
+# 🔹 RTL+, Joyn, ZDF, ARD, TVNOW
+tvnow.de
+rtlplus.de
+zdf.de
+api.tvnow.de
+joyn.de
+cdn.joyn.de
+ardmediathek.de
+
+# 🔹 Apple / iCloud / iTunes
+apple.com
+icloud.com
+itunes.apple.com
+push.apple.com
+init.itunes.apple.com
+albert.apple.com
+
+# 🔹 Cloudfront / CDN
+cloudfront.net
+akamaihd.net
+akamai.net
+cdn77.com
+fastly.net
+cdn.cloudflare.net
+
+# 🔹 Sonstiges – Apps & Alltagsdienste
+whatsapp.net
+whatsapp.com
+telegram.org
+discord.com
+cdn.discordapp.com
+facebook.com
+fbcdn.net
+instagram.com
+cdninstagram.com
+twitter.com
+tiktokv.com
+tiktokcdn.com
+snapchat.com
+cdn.snapchat.com
 
 # ===========================================================
 # Ende der Liste
