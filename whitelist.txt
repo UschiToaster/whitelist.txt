@@ -266,6 +266,7 @@ tiktokcdn.com
 snapchat.com
 cdn.snapchat.com
 event.api.np.km.playstation.net
+smetrics.aem.playstation.com
 
 netflix.com
 www.netflix.com
